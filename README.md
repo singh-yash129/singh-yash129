@@ -1,6 +1,8 @@
-# 👋 Hello, World! I’m **Yashvardhan**  
+# 👋 Hey, I’m **Yashvardhan**  
 
 ![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+![Coding GIF](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)  
+
 
 🚀 **Passionate about coding, databases, and cloud computing.** From crafting web apps to analyzing data and integrating AI, I enjoy working across **frontend, backend, and cloud** to solve real-world problems.  
 
