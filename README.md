@@ -86,7 +86,7 @@
 I’d love to collaborate on exciting projects or chat about tech. Feel free to reach out!  
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-vardhan-89317a2a0)  
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YOUR_USERNAME)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/singh-yash129)  
 
 ---
 
