@@ -10,7 +10,7 @@
 
 ## 💡 **About Me**  
 - 🎓 **Currently Pursuing:**  
-  **B.S. in Data Science & Applications**  
+  **Bachelor's from IIT, Madras**  
 - 💻 **Always Exploring:**  
   - SQL and Advanced DBMS techniques  
   - Building data-driven apps with **Streamlit**  
