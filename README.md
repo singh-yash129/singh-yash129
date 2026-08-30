@@ -71,8 +71,10 @@ Passionate about building **scalable, data-driven applications** and integrating
 ---
 
 ## 📈 **GitHub Stats**
-![Yashvardhan's GitHub stats](https://ghstats.dev/api/card?username=singh-yash129&theme=light&border_radius=17)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singh-yash129&layout=compact&theme=radical)](https://github.com/singh-yash129)  
+![GitHub Stats Card](https://ghstats.dev/api/card?username=singh-yash129&theme=light&border_radius=17) 
+![Top Languages](https://ghstats.dev/api/langs?username=singh-yash129&theme=light&max_langs=12&layout=donut)
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=singh-yash129&theme=light&days=30&width=320&height=80)
+
 
 ---
 
