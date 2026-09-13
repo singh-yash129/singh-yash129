@@ -167,8 +167,6 @@ I'm always looking for the next interesting full stack, database, or AI systems 
 
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=singh-yash129&theme=light&days=90&width=500&height=120)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=singh-yash129&theme=flat&no-frame=true&margin-w=8&column=7)
-
 </div>
 
 <div align="center">
